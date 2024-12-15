@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "tama_01ye.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 4,
+        "w": 86,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tama_wh.png": {
+      "frame": {
+        "x": 0,
+        "y": 86,
+        "w": 86,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 4,
+        "w": 86,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 97,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "tama_ye.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 86,
+      "h": 172
+    },
+    "scale": 1
+  }
+}
